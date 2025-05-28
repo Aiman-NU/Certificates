@@ -1,9 +1,9 @@
 # Certificate of Completion - SAS® Programming 1: Essentials
 
 **Recipient**: Aiman Alam  
-**Course**: SAS Programming 1: Essentials 
-**Date of Completion** - September 17, 2021
-**Issuing Organization**: SAS Institute Inc.  
+**Course**: SAS Programming 1: Essentials   
+**Date of Completion** - September 17, 2021  
+**Issuing Organization**: SAS Institute Inc.    
 
 ## Description
 
