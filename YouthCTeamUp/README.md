@@ -18,18 +18,12 @@ During the project, I utilized Python programming extensively, leveraging powerf
 
 This experience enhanced my skills in:
 
-Internet of Things (IoT) technologies and sensor integration
-
-Data collection, cleaning, and exploratory data analysis using Python
-
-Visualizing real-time data trends with Python libraries for effective communication
-
-Collaborative project management in a multicultural team
-
-Problem-solving for global health challenges
-
-Promoting sustainability and health through technology
+- Internet of Things (IoT) technologies and sensor integration
+- Data collection, cleaning, and exploratory data analysis using Python
+- Visualizing real-time data trends with Python libraries for effective communication
+- Collaborative project management in a multicultural team
+- Problem-solving for global health challenges
+- Promoting sustainability and health through technology
 
 The YouthCTeamUp program fosters innovation, teamwork, and social impact among young professionals and students, encouraging the development of practical solutions to pressing global issues.
-
 I am proud to have contributed to this impactful project, demonstrating how Python and data science can be harnessed to create meaningful technological solutions for public health worldwide.
