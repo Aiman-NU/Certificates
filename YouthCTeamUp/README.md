@@ -4,7 +4,7 @@
 **Project**: Global Impact Project (GIP) -  
 *"GLOBAL IoT PROJECT FOR INFECTIOUS DISEASES CONTROL (Water Monitoring)"*  
 **Date Granted**: June 10, 2024  
-**Issued by**: YouthCTeamUp, Co-funded by the Erasmus+ Programme of the European Union  
+**Issued by**: YouthCTeamUp, Co-funded by the Erasmus+ Programme of the European Union 
 **Project Coordinator**: Dr. Omid Fatahi Valilai  
 **Collaborators**: Other team members alongside Aiman Alam  
 **Affiliated Institutions**: Constructor University, DTB, BongoHive, WAZIUP, Edulife, Azine ET  
