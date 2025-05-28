@@ -3,7 +3,8 @@
 **Recipient**: Aiman Alam  
 **Course**: SAS Programming 1: Essentials   
 **Date of Completion** - September 17, 2021  
-**Issuing Organization**: SAS Institute Inc.    
+**Issuing Organization**: SAS Institute Inc.   
+**Link to the Certification Badge** - https://www.credly.com/badges/46825064-4cdf-49a8-a4f9-480ee100d7cf/public_url  
 
 ## Description
 
